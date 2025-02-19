@@ -1,0 +1,10 @@
+{
+    "teams": [
+        { "name": "Team A", "wins": 5, "losses": 2 },
+        { "name": "Team B", "wins": 4, "losses": 3 }
+    ],
+    "players": [
+        { "name": "John Doe", "team": "Team A", "goals": 10, "assists": 5, "pim": 2 },
+        { "name": "Jane Smith", "team": "Team B", "goals": 8, "assists": 7, "pim": 3 }
+    ]
+}
